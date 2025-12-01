@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+@import "tailwindcss";
+
+:root{
+  --font-figtree: 'Figtree', sans-serif;
+  --background-color-card: hsl(0, 0%, 12%);
+  --background-color-body: hsl(0, 0%, 8%);
+  --background-color-link: hsl(0, 0%, 20%);
+  --text-color-primary: hsl(0, 0%, 100%);
+  --text-color-secondry: hsl(75, 94%, 57%);
+}
